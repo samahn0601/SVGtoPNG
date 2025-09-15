@@ -1,0 +1,5 @@
+{
+  "name": "고해상도 SVG 변환기",
+  "description": "SVG 파일을 논문 제출용 고해상도(300DPI 이상) PNG 파일로 변환합니다. 디자인이나 텍스트 위치 변경 없이 원본을 그대로 유지합니다.",
+  "requestFramePermissions": []
+}
